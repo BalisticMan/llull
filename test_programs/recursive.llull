@@ -1,0 +1,13 @@
+void main() {
+  aux1(3)
+}
+
+void aux1(n) {
+  if (n > 0) {
+    write(n)
+    aux2()
+    write(n)
+  }
+}
+
+void aux2() {}

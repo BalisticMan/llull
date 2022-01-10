@@ -1,0 +1,11 @@
+void main() {
+    array(p, 5)
+    set(p, 0 , 69)
+    write(get(p,0))
+    aux(p)
+    write(get(p,0))
+}
+
+void aux(p) {
+    set(p,0,100)
+}
