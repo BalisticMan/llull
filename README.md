@@ -76,4 +76,5 @@ You can visit all the ASTs opening the file `llull.rrd.html` using a web browser
 * colored
 
 ## Author
-@quimbaget
+
+Quim Baget Salarich
